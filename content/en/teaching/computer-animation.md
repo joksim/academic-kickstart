@@ -5,7 +5,7 @@ date: "2020-02-20T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
-profile: true  # Show author profile?
+profile: false  # Show author profile?
 comments: true  # Show comments?
 
 # Optional header image (relative to `static/img/` folder).
@@ -70,7 +70,7 @@ header:
     following session:
     + up to 100% if finished in the 1<sup>st</sup> exam session (June/July)
     + up to 90% if finished in the 2<sup>nd</sup> exam session (August/September) 
-    + up to 80% if finished in the 3<sup>rd</sup> exam session (August/September)
+    + up to 80% if finished in the 3<sup>rd</sup> exam session (January/February)
   
 
 # Course materials
