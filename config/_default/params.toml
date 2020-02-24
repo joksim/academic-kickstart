@@ -97,7 +97,7 @@ directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["For office hours please see: ", "http://joksim.github.io/office-hours/", "https://finki.ukim.mk/mk/staff/boban-joksimoski"]
+office_hours = ["For office hours please see the [calendar page](http://joksim.github.io/calendar)"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

@@ -12,7 +12,6 @@
 [mk]
   languageCode = "mk"
   contentDir = "content/mk"
-  description = "Македонски"
   weight = 2
 #  [zh.params]
 #    description = "Site description in Chinese..."

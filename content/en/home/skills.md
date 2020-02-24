@@ -32,9 +32,10 @@ subtitle = ""
   name = "C & C++"
   description = "70% & 40%"
 
-[[feature]]
-  icon = "file-code"
-  icon_pack = "fas"
-  name = "C & C++"
-  description = "70% & 40%"
+# [[feature]]
+#   icon = "file-code"
+#   icon_pack = "fas"
+#   name = "C & C++"
+#   description = "70% & 40%"
+
 +++
